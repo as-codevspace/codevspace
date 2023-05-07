@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'AgencyFB';
+  src: url('/public/AgencyFB-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-AgencyFB {
+  font-family: 'AgencyFB';
+}
+
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Navbar {
+  background-color: #4472c4;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.Navbar-links {
+  text-align: right;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  background-color: #eaf0f7;
+}
+
+.bg-ds-light-gray {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 240 247 / var(--tw-bg-opacity));
+}
+
+footer a:link,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+hr {
+  border-top: 1px solid #ccc;
+}
+footer p {
+  text-align: center;
+  font-size: 14px;
+  /* color: #888; */
+  margin-top: 10px;
+}
+
+.footer {
+  background-color: #4472c4;
+  color: #fff;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .footer {
+    font-size: 14px;
+    padding: 10px;
+  }
+  .footer-links {
+    display: none;
+  }
+}
+
+.text-1rem {
+  font-size: 1rem;
+}
+
+.text-1\.5rem {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .text-1rem {
+    font-size: 0.75rem;
+  }
+  .text-1\.5rem {
+    font-size: 1rem;
+  }
+}
+
+.codevspace-color {
+  /* color: #d41d24; */
+  color: #4472c4;
+}
+
+.highlight-syntax {
+  background: linear-gradient(
+    to bottom,
+    transparent 00%,
+    #d41d24 80%,
+    #d41d24 95%,
+    transparent 95%
+  );
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+@media (min-width: 640px) {
+  .sm\:w-\[402px\] {
+    width: 402px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:w-\[602px\] {
+    width: 602px;
+  }
+}
