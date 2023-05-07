@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3072e6a.css",
-    "main.js": "/static/js/main.ac4c2226.js",
-    "static/js/787.074c06b4.chunk.js": "/static/js/787.074c06b4.chunk.js",
-    "static/media/AgencyFB-Bold.ttf": "/static/media/AgencyFB-Bold.eaefe2f00eb5ad09946f.ttf",
-    "index.html": "/index.html",
-    "main.b3072e6a.css.map": "/static/css/main.b3072e6a.css.map",
-    "main.ac4c2226.js.map": "/static/js/main.ac4c2226.js.map",
-    "787.074c06b4.chunk.js.map": "/static/js/787.074c06b4.chunk.js.map"
+    "main.css": "/codevspace-react-app/static/css/main.88b40852.css",
+    "main.js": "/codevspace-react-app/static/js/main.55755227.js",
+    "static/js/787.074c06b4.chunk.js": "/codevspace-react-app/static/js/787.074c06b4.chunk.js",
+    "static/media/AgencyFB-Bold.ttf": "/codevspace-react-app/static/media/AgencyFB-Bold.eaefe2f00eb5ad09946f.ttf",
+    "index.html": "/codevspace-react-app/index.html",
+    "main.88b40852.css.map": "/codevspace-react-app/static/css/main.88b40852.css.map",
+    "main.55755227.js.map": "/codevspace-react-app/static/js/main.55755227.js.map",
+    "787.074c06b4.chunk.js.map": "/codevspace-react-app/static/js/787.074c06b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3072e6a.css",
-    "static/js/main.ac4c2226.js"
+    "static/css/main.88b40852.css",
+    "static/js/main.55755227.js"
   ]
 }
