@@ -1,5 +1,4 @@
 import './App.css';
-import './codevspace.css';
 import Home from './components/Home';
 import MyNavbar from './components/Navbar';
 import Services from './components/Services';
