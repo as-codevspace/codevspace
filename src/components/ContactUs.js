@@ -3,17 +3,17 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function ContactUs() {
   return (
-    <section class="bg-ds-light-gray pt-12 lg-pt-12 xl-pt-14 pb-14 sm-pb-20 xl-pb-32 flex justify-center items-center sm-min-h-screen 2xl-min-h-full">
+    <section class="light-gray pt-12 lg-pt-12 xl-pt-14 pb-14 sm-pb-20 xl-pb-32 flex justify-center items-center sm-min-h-screen 2xl-min-h-full">
       <div class="max-w-8xl mx-auto items-middle sm:py-5">
         <Container>
           <Row className="py-1 py-md-3">
             <Col>
-              <h1 className="display-2 text-black font-bold">
+              <h1 className="codevspace-h1 text-black font-bold">
                 <p>
                   <span id="contact_us">Contact Us</span>
                 </p>
               </h1>
-              <p className="py-3 py-md-5 text-1.5rem">
+              <p className="py-3 py-md-5 codevspace-text">
                 Have a question or need more information about our services?
                 Send a hello &#x1F44B; to {" "}
                 <a className="codevspace-color" href="mailto:hello@codevspace.com?subject=CodevSpace services query">
@@ -25,7 +25,7 @@ function ContactUs() {
           </Row>
           <Row>
           <Col>
-              <h1 className="display-6 text-black font-bold">
+              <h1 className="codevspace-h2 text-black font-bold">
                 <p>
                   <span>Our offices</span>
                 </p>
@@ -34,7 +34,7 @@ function ContactUs() {
           </Row>
           <Row>
           <Col className="px-3 py-3">
-              <h1 className="text-md-center py-3 text-dark text-1.5rem">
+              <h1 className="text-md-center py-3 text-dark codevspace-text">
                 <p>
                   <span>India</span>
                 </p>
@@ -51,7 +51,7 @@ function ContactUs() {
               </p>
             </Col>
             <Col className="px-3 py-3">
-              <h1 className="text-md-center py-3 text-dark text-1.5rem">
+              <h1 className="text-md-center py-3 text-dark codevspace-text">
                 <p>
                   <span>USA</span>
                 </p>
@@ -68,14 +68,14 @@ function ContactUs() {
               </p>
             </Col>
             <Col className="px-3 py-3">
-              <h1 className="text-md-center py-3 text-dark text-1.5rem">
+              <h1 className="text-md-center py-3 text-dark codevspace-text">
                 <p>
                   <span>Australia</span>
                 </p>
               </h1>
               <p className="text-md-center">
                 <span className="text-1rem">
-                  WA, Perth
+                  Perth, WA
                 </span>
               </p>
               <p className="text-md-center">
