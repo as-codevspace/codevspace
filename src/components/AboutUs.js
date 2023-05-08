@@ -7,7 +7,7 @@ export default function AboutUs() {
         <Container>
           <Row className="py-1 py-md-3">
             <Col>
-              <h1 className="codevspace-h1text-black font-bold">
+              <h1 className="codevspace-h1 text-black font-bold">
                 <p>
                   <span id="about_us">About Us</span>
                 </p>
