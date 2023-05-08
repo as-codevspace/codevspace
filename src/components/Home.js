@@ -1,5 +1,14 @@
 import { Container, Row, Col } from "react-bootstrap";
 export default function Home() {
+  const handleClick = () => {
+    const element = document.getElementById('services');
+    if (element) {
+      window.scrollTo({
+        behavior: 'smooth',
+        top: element.offsetTop,
+      });
+    }
+  };
   return (
     <section id="home" class="flex justify-center items-center py-3 py-md-5 light-gray">
       <Container className="py-3 py-md-5">
@@ -22,6 +31,7 @@ export default function Home() {
                 alt="idea"
                 src="/Launch.png"
                 className="w-[302px] sm:w-[402px] lg:w-[602px] img-fluid mx-auto"
+                onClick={handleClick} 
               />
           </Col>
         </Row>

@@ -43,7 +43,7 @@ function MyFooter() {
           </div>
         </div>
         <hr />
-        <p className="text-center">© 2023 Startpitch. All Rights Reserved.</p>
+        <p className="text-center">© 2023 Startpitch Pvt Ltd. All Rights Reserved.</p>
       </Container>
     </footer>
   );
