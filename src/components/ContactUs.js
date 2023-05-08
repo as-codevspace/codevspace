@@ -16,7 +16,7 @@ function ContactUs() {
               <p className="py-3 py-md-5 text-1.5rem">
                 Have a question or need more information about our services?
                 Send a hello &#x1F44B; to {" "}
-                <a className="codevspace-color" href="mailto:hello@codevspace.com?subject=Codevspace services query">
+                <a className="codevspace-color" href="mailto:hello@codevspace.com?subject=CodevSpace services query">
                   hello@codevspace.com
                 </a>{" "}
                 and we'll get back to you as soon as possible.

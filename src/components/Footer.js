@@ -15,7 +15,7 @@ function MyFooter() {
               <li>
                 Email:{" "}
                 <a
-                  href="mailto:hello@codevspace.com?subject=Codevspace services query"
+                  href="mailto:hello@codevspace.com?subject=CodevSpace services query"
                   className="codevspace-color"
                 >
                   hello@codevspace.com
@@ -24,7 +24,7 @@ function MyFooter() {
             </ul>
           </div>
           <div className="col-md-6 col-lg-6 text-center footer-links">
-            <h5>Codevspace</h5>
+            <h5>CodevSpace</h5>
             <ul className="list-unstyled">
               <li>
                 <a href="#home">Home</a>

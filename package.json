@@ -1,5 +1,6 @@
 {
   "name": "codevspace-react-app",
+  "homepage": "https://www.codevspace.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

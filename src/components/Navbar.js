@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 
 function MyNavbar() {
   return (
-      <Navbar className="Navbar font-AgencyFB text-white" expand="md">
+      <Navbar variant="light" className="Navbar font-AgencyFB" expand="md">
       <Container>
         <Navbar.Brand href="#home">
           <span>&lt;/&gt; CodevSpace</span>

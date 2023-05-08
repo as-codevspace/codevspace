@@ -17,7 +17,7 @@ export default function AboutUs() {
           <Row>
             <Col className="px-3 px-md-5 py-2 py-md-4">
               <p className="text-1.5rem">
-                <span className="codevspace-color">Codevspace</span> is a
+                <span className="codevspace-color">CodevSpace</span> is a
                 technology services company focused on providing innovative
                 solutions that help companies drive growth, success, and
                 efficiency. With a team of experienced professionals, we
